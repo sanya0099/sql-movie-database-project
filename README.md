@@ -40,7 +40,7 @@ Example entries are included for each table. For instance:
 - Movies such as **Edge of Tomorrow**, **The Godfather**, and **Interstellar**.
 - Genre classification for easier filtering and analytics.
 
----
+
 
 ## 🔄 SQL Functionality
 
